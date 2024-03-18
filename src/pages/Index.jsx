@@ -10,7 +10,7 @@ const Index = () => {
       </header>
 
       <main className="container mx-auto px-6 py-12">
-        <section className="text-center">
+        <section className="text-center fadeInUp">
           <h2 className="text-4xl font-bold mb-4 text-gray-800">Effortlessly Track and Optimize Your Time</h2>
           <p className="text-xl text-gray-600 mb-8">TimeMind automatically tracks how you spend your time and provides an AI assistant to help you be more productive.</p>
           <a href="#" className="inline-block bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-semibold uppercase tracking-wide hover:bg-blue-600">
