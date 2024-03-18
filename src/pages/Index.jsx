@@ -13,7 +13,7 @@ const Index = () => {
         <section className="text-center fadeInUp">
           <h2 className="text-4xl font-bold mb-4 text-gray-800">Effortlessly Track and Optimize Your Time</h2>
           <p className="text-xl text-gray-600 mb-8">TimeMind automatically tracks how you spend your time and provides an AI assistant to help you be more productive.</p>
-          <a href="#" className="inline-block bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-semibold uppercase tracking-wide hover:bg-blue-600">
+          <a href="#" className="inline-block bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-semibold uppercase tracking-wide hover:bg-blue-600 hover:scale-105 transition-transform duration-300">
             Get Started
           </a>
         </section>
@@ -65,7 +65,7 @@ const Index = () => {
         <section className="mt-20 text-center">
           <h2 className="text-3xl font-bold mb-4 text-gray-800">Take Control of Your Time Today</h2>
           <p className="text-xl text-gray-600 mb-8">Sign up now and start optimizing your productivity with TimeMind's AI-powered time tracking and insights.</p>
-          <a href="#" className="inline-block bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-semibold uppercase tracking-wide hover:bg-blue-600">
+          <a href="#" className="inline-block bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-semibold uppercase tracking-wide hover:bg-blue-600 hover:scale-105 transition-transform duration-300">
             Get Started for Free
           </a>
         </section>
